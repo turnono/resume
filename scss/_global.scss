@@ -34,7 +34,7 @@ h2 {
 }
 
 .subheading {
-  text-transform: uppercase;
+  text-transform: inherit;
   font-weight: 500;
   @include heading-font;
   font-size: 1.35rem;
